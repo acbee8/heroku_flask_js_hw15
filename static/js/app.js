@@ -1,3 +1,5 @@
+// Deplyed to: https://mighty-citadel-48390.herokuapp.com/ 
+
 function buildMetadata(sample) {
 
     console.log("trying to load metadata: " + sample);
